@@ -6,8 +6,6 @@
 
 full-stack dev + ai engineer. i build ai products for everyday people, and deterministic systems when the stakes are high.
 
-most of my work is private right now. a portfolio site is on the way.
-
 <br />
 
 **Elsewhere** · Portfolio *(coming soon)* · LinkedIn *(coming soon)* · X *(coming soon)*
