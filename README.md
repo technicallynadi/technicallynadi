@@ -4,9 +4,9 @@
 
 <br />
 
-I'm Nadirah, a full-stack dev and AI engineer who likes making software that feels personal.
+full-stack dev + ai engineer. i build ai products for everyday people, and deterministic systems when the stakes are high.
 
-Most of what I build lives where **AI, mobile, and the web** meet: AI products for everyday people, tools that help them make better decisions, and deterministic systems for when the stakes are high. I care about craft and detail, and I follow my curiosity into whatever domain a problem lives in.
+Alongside that, I build tools that help people make better decisions and the quiet systems that run behind them. I care about craft and detail, and I follow my curiosity into whatever domain a problem lives in, across AI, mobile, and the web.
 
 Most of my work is private right now. A portfolio site is on the way.
 
