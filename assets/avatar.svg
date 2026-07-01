@@ -1,0 +1,9 @@
+<svg width="800" height="800" viewBox="0 0 800 800" role="img" xmlns="http://www.w3.org/2000/svg"><title>@technicallynadi avatar</title><desc>Light card with a black circle and a knocked-out N in Space Grotesk.</desc>
+<defs>
+<filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter>
+</defs>
+<rect width="800" height="800" fill="#E9E9E6"/>
+<rect width="800" height="800" filter="url(#g)" opacity="0.05"/>
+<circle cx="400" cy="400" r="315" fill="#171717"/>
+<text x="400" y="568" text-anchor="middle" font-family="Space Grotesk" font-weight="700" font-size="480" fill="#E9E9E6">N</text>
+</svg>
